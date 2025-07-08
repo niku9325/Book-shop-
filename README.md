@@ -1,2 +1,1 @@
-DEMO
-najxn
+Demo
